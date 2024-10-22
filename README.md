@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: palaoglu02@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: In my free time, I enjoy following the NBA!
+- https://github.com/irgroup-classrooms/individual-assignments-Sedat-P/blob/main/assignments/labs/01/22_10_2024 
 
