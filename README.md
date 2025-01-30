@@ -1,9 +1,7 @@
 # About me
 
 
-**Sedat-P/Sedat-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Sedat-P/Sedat-P** is a ✨ _special_ ✨ repository because its `README.md`
 
 - 🔭 I’m currently working on data analysis projects and exploring machine learning.
 - 🌱 I’m currently learning Python.
